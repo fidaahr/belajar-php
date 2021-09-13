@@ -8,3 +8,7 @@
         echo $angka . " = genap";
     }
     
+
+    echo 'aku gatau mau nulis apa';
+
+    adweaedaedaedade

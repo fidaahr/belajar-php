@@ -25,6 +25,7 @@
 
 
      ?>
+     
      <!-- <?php echo $pembuka . '  String' ?>
      <br>
      <?= $angka . '  Integer'?>
